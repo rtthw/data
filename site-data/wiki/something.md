@@ -1,4 +1,4 @@
 
 # Something
 
-[Back to Testing...](./test.md)
+[Back to Testing...](./test)
