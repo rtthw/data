@@ -1,5 +1,4 @@
 A simple terminal user interface library for Rust.
 
-<a href="/wiki/test">Wiki Testing...</a>
-
+- [Introduction](./dreg/introduction.md)
 - [Quickstart](./dreg/quickstart.md)
